@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\mockturtle",
+    "\\include\\mockturtle\\algorithms",
+    "\\test",
+    "\\test\\algorithms"
+  ],
+  "PreviewInSolutionExplorer": false
+}
